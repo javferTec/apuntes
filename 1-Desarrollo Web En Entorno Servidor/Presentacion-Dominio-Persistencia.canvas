@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"1ed780b50ca44d31","x":0,"y":-380,"width":250,"height":60,"type":"text","text":"PRESENTACIÓN"},
+		{"id":"7d0333da525d896f","x":0,"y":-210,"width":250,"height":60,"type":"text","text":"DOMINIO"},
+		{"id":"05392b3207a8dfc4","x":0,"y":-40,"width":250,"height":60,"type":"text","text":"PERSISTENCIA"},
+		{"id":"f6e0b137fbd7c256","x":-560,"y":-380,"width":400,"height":140,"color":"1","type":"text","text":"Nuestra aplicación es DOMINIO. Por lo tanto no debe depender ni acoplarse a PRESENTACIÓN y PERSISTENCIA.\n\nPara así seguir los principios SOLID."}
+	],
+	"edges":[
+		{"id":"a46ae3ba4bd87ec6","fromNode":"05392b3207a8dfc4","fromSide":"top","toNode":"7d0333da525d896f","toSide":"bottom"},
+		{"id":"ed53d80dc23eed13","fromNode":"1ed780b50ca44d31","fromSide":"bottom","toNode":"7d0333da525d896f","toSide":"top"}
+	]
+}

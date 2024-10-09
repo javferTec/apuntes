@@ -4,15 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "7dc005ca3a104ad4",
+        "id": "5a5922d518726b0e",
         "type": "tabs",
         "children": [
           {
-            "id": "e2bc12b8097ac237",
+            "id": "edbf470e9400e15a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Presentacion-Dominio-Persistencia.md"
+              }
+            }
+          },
+          {
+            "id": "9c418145c9cb458b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Presentacion-Dominio-Persistencia.canvas",
+                "viewState": {
+                  "x": 22,
+                  "y": -176,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "cfca7e183530f1a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excalidraw/Presentacion-Dominio-Persistencia.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 334.5
   },
   "right": {
     "id": "c14dcdb64e73b0be",
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Presentacion-Dominio-Persistencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Presentacion-Dominio-Persistencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,10 +149,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Excalidraw/Presentacion-Dominio-Persistencia.md"
+              }
+            }
+          },
+          {
+            "id": "fc251da284949c4b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "82c18fe7462b999b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -135,9 +185,20 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2bc12b8097ac237",
-  "lastOpenFiles": []
+  "active": "edbf470e9400e15a",
+  "lastOpenFiles": [
+    "Arquitectura por capas.md",
+    "Presentacion-Dominio-Persistencia.canvas",
+    "Excalidraw/Presentacion-Dominio-Persistencia.md",
+    "Excalidraw",
+    "Controller.md",
+    "Excalidraw/Capas de la arquitectura.md",
+    "Excalidraw/Drawing 2024-10-09 18.46.18.excalidraw.md"
+  ]
 }
