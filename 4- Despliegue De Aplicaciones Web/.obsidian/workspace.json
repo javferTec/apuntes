@@ -11,8 +11,10 @@
             "id": "3afd8bcd9835f9b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Pasos de GitFlow.png"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pasos de GitFlow.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pasos de GitFlow.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,10 +122,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Pasos de GitFlow.png"
+              }
+            }
+          },
+          {
+            "id": "2ceaeb3a6dc24118",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "503f514c1e795d09",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -135,9 +158,18 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3afd8bcd9835f9b4",
-  "lastOpenFiles": []
+  "active": "503f514c1e795d09",
+  "lastOpenFiles": [
+    "Excalidraw/Estrategia de trabajo Git.md",
+    "Pasos de GitFlow.png",
+    "estartegia-gitflow.png",
+    "git-flow.png",
+    "Excalidraw"
+  ]
 }

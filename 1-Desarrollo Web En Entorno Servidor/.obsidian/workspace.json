@@ -4,43 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5a5922d518726b0e",
+        "id": "b4080324f9255a88",
         "type": "tabs",
         "children": [
           {
-            "id": "edbf470e9400e15a",
+            "id": "1e695c763051b4fe",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Presentacion-Dominio-Persistencia.md"
-              }
-            }
-          },
-          {
-            "id": "9c418145c9cb458b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Presentacion-Dominio-Persistencia.canvas",
-                "viewState": {
-                  "x": 22,
-                  "y": -176,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "cfca7e183530f1a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Excalidraw/Presentacion-Dominio-Persistencia.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -186,16 +159,16 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "edbf470e9400e15a",
+  "active": "1e695c763051b4fe",
   "lastOpenFiles": [
-    "Arquitectura por capas.md",
     "Presentacion-Dominio-Persistencia.canvas",
     "Excalidraw/Presentacion-Dominio-Persistencia.md",
+    "Arquitectura por capas.md",
     "Excalidraw",
     "Controller.md",
     "Excalidraw/Capas de la arquitectura.md",
