@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dfde8f0449fcd43c",
+        "id": "764422f9fcedeb0d",
         "type": "tabs",
         "children": [
           {
-            "id": "3afd8bcd9835f9b4",
+            "id": "11c6042a20b8bd68",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasos de GitFlow.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasos de GitFlow.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasos de GitFlow.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pasos de GitFlow.png"
-              }
+              "state": {}
             }
           },
           {
@@ -144,12 +138,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,10 +157,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "503f514c1e795d09",
+  "active": "11c6042a20b8bd68",
   "lastOpenFiles": [
-    "Excalidraw/Estrategia de trabajo Git.md",
     "Pasos de GitFlow.png",
+    "Excalidraw/Estrategia de trabajo Git.md",
     "estartegia-gitflow.png",
     "git-flow.png",
     "Excalidraw"
