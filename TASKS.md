@@ -1,7 +1,7 @@
 # TAREAS POR ASIGNATURA
 
 ### Desarrollo Web En Entorno Servidor __(DWS)__
-- [ ] Entender arquitectura por capas. De manera independiente y genérica
+- [X] Entender arquitectura por capas. De manera independiente y genérica
 - [ ] Desglosar CONTROLLER
 - [ ] Comprender anotaciones y el por qué de cada elemento.
 
