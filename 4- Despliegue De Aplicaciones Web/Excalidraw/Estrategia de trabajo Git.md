@@ -40,7 +40,7 @@ Si origin/develop se adelanta a la feature lo que hay que hacer para obtener los
 - git merge develop ^IXPVEyUH
 
 ## Embedded Files
-86343cfce67a56587f39641c6d960216bdbec251: [[estartegia-gitflow.png]]
+86343cfce67a56587f39641c6d960216bdbec251: [[Estartegia-gitflow.png]]
 
 %%
 ## Drawing

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "764422f9fcedeb0d",
+        "id": "02138be3e312907f",
         "type": "tabs",
         "children": [
           {
-            "id": "11c6042a20b8bd68",
+            "id": "1c5bbaefb06666d8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,11 +158,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "11c6042a20b8bd68",
+  "active": "1c5bbaefb06666d8",
   "lastOpenFiles": [
-    "Pasos de GitFlow.png",
+    "Control de versiones (Git).md",
     "Excalidraw/Estrategia de trabajo Git.md",
-    "estartegia-gitflow.png",
+    "Estartegia-gitflow.png",
+    "Pasos de GitFlow.png",
     "git-flow.png",
     "Excalidraw"
   ]
