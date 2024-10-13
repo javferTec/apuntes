@@ -21,6 +21,7 @@
     - [Tema 4 JS Estructuras definidas por el usuario](./2-Desarrollo%20Web%20En%20Entorno%20Cliente/.temario/1a%20Evaluacion/Tema%204%20JS%20Estructuras%20definidas%20por%20el%20usuario.pdf)
 
     - [Tema 5 JS Eventos](./2-Desarrollo%20Web%20En%20Entorno%20Cliente/.temario/1a%20Evaluacion/Tema%205%20JS%20Eventos.pdf)
+    - [Tema 6 JS DOM](./2-Desarrollo%20Web%20En%20Entorno%20Cliente/.temario/1a%20Evaluacion/Tema%206%20JS%20El%20DOM.pdf)
 
 <br>
 
