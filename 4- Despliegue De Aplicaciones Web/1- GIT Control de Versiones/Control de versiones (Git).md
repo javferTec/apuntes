@@ -108,7 +108,8 @@ Si queremos movernos a una rama de tipo ``origin/rama`` debemos hacerlo con:
 git switch --detach origin/rama
 ```
 
-==_NOTA:_ **DETACH** nos informa de que no se puede crear commit al lugar al que nos movemos. Es decir, no podemos trabajar en ese lugar==
+> [!NOTA]
+> **DETACH** nos informa de que no se puede crear commit al lugar al que nos movemos. Es decir, no podemos trabajar en ese lugar
 
 Si queremos publicar los cambios de una rama:
 
