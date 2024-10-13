@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "051387c74394aa8e",
+        "id": "7b6170d68a1e7530",
         "type": "tabs",
         "children": [
           {
-            "id": "205dc02395b55494",
+            "id": "144926444d05f245",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,8 +158,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "205dc02395b55494",
+  "active": "144926444d05f245",
   "lastOpenFiles": [
+    "1- GIT Control de Versiones/Control de versiones (Git).md",
+    "1- GIT Control de Versiones/Pasos de GitFlow.png",
+    "1- GIT Control de Versiones/Estartegia-gitflow.png",
+    "1- GIT Control de Versiones/images/strftime.png",
+    "1- GIT Control de Versiones/images/gitLog.png",
+    "1- GIT Control de Versiones/images/git-log-format.png",
+    "1- GIT Control de Versiones/images",
+    "1- GIT Control de Versiones/Excalidraw/Estrategia de trabajo Git.md",
+    "1- GIT Control de Versiones/Excalidraw",
+    "1- GIT Control de Versiones",
+    "Nueva carpeta",
     "Pasos de GitFlow.png",
     "Estartegia-gitflow.png",
     "Control de versiones (Git).md",
@@ -168,11 +179,6 @@
     "images/git-log-format.png",
     "images/strftime.png",
     "images",
-    "strftime.png",
-    "git-log-format.png",
-    "Nueva carpeta",
-    "Pasted image 20241013125129.png",
-    "git-flow.png",
     "Excalidraw"
   ]
 }
