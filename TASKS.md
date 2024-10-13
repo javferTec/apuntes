@@ -14,6 +14,7 @@
 - [ ] Almacenamiento local (cookies) JS
 - [ ] Funciones, Objetos e Iterables JS
 - [ ] Eventos JS
+- [ ] DOM
     
 
 <br>
@@ -29,4 +30,4 @@
 <br>
 
 ### Despliegue De Apliaciones Web __(DAW)__
-- [ ] Hoja de resumen esquematizada de GIT (control de versiones + avanzado)
+- [X] Hoja de resumen esquematizada de GIT (control de versiones + avanzado)
