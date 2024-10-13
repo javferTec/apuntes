@@ -108,7 +108,7 @@ Si queremos movernos a una rama de tipo ``origin/rama`` debemos hacerlo con:
 git switch --detach origin/rama
 ```
 
-> [!NOTA]
+> [!NOTE]
 > **DETACH** nos informa de que no se puede crear commit al lugar al que nos movemos. Es decir, no podemos trabajar en ese lugar
 
 Si queremos publicar los cambios de una rama:
@@ -135,7 +135,7 @@ git pull
 ```
 
 
-> [!DANGER]
+> [!CAUTION]
 > ``git pull`` hace un fetch y un merge, lo que puede producir conflictos que posteriormente haya que solucionar y puede que el histórico se modifique.
 
 
@@ -167,7 +167,8 @@ git rebase <nombreRama>
 
 **Merge** conserva la historia original de la rama fusionada y **rebase** reescribe la historia de la rama para que parezca que los commits se aplicaron de forma lineal. En otras palabras, **merge** fusiona e incorpora los cambios especificados a la rama actual _(donde está el HEAD)_ mientras que **rebase** mueve el HEAD a la rama especificada.
 
-_NOTA: HEAD es donde estamos ubicados._
+> [!NOTE]
+>  HEAD es donde estamos ubicados._
 
 ## Remotes
 
@@ -212,7 +213,7 @@ git reset --hard <hashCommit>
 | --mixed |              Si              |             No              |          Si          |
 | --soft  |              Si              |             No              |          No          |
 
-> [!NOTA]
+> [!NOTE]
 > La opción **HEAD~1** hace referencia al último commit.
 
 ## Deshacer commits
@@ -231,7 +232,7 @@ git revert --no-commit HEAD~1
 git commit -am "Mensaje de commit" # -a para añadir a stage & -m para el mensaje del commit
 ```
 
-> [!NOTA]
+> [!NOTE]
  > ``git restore --staged --worktree fichero``  restaura el archivo `fichero` tanto en el área de preparación como en el directorio de trabajo a su estado en el último commit, eliminando cualquier cambio realizado.
 
 ## Configuración

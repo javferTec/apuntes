@@ -11,10 +11,10 @@ Las ramas con las cuales vamos a trabajar son las siguientes:
 
 Sigue una estrategia muy similar a **GitFlow**, la cual permite el trabajo en equipo en un proyecto. Su funcionamiento es muy sencillo, cada miembro tiene asignada una feature que hace referencia a un issue, una vez terminada la funcionalidad se une a develop, posteriormente develop y release se unen, al igual que main y release. Esto permite crear un histórico lineal.
 
-> [!NOTA]
+> [!NOTE]
 > Las ramas de funcionalidad una vez terminadas deben ser eliminadas.
 
-> [!NOTA]
+> [!NOTE]
 > Las ramas de funcionalidad deben nombrarse como:
 > `nombrePersona/numIssue`
 > 
@@ -98,14 +98,14 @@ git merge --ff-only release
 [[Estrategia de trabajo Git]]
 ![[Pasos de GitFlow.png]]
 
-> [!NOTA]
+> [!NOTE]
 > ``` bash
 > git merge --squash pedro/4
 > ```
 > 
 > Se utiliza para juntar todos los microcommits en un solo commit que habrá que indicar. Se usa para pasar los microcommits de una rama feature a develop
 
-> [!NOTA]
+> [!NOTE]
 >
 > ```bash
 > git merge --ff-only develop
