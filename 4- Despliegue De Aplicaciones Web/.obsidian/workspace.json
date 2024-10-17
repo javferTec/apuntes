@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3dd8a3545974c434",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TCP-IP y UDP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c6dd3c8e8523de6a",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1- GIT Control de Versiones/Control de versiones (Git).md",
+                "file": "TCP-IP y UDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1- GIT Control de Versiones/Control de versiones (Git).md",
+                "file": "TCP-IP y UDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1- GIT Control de Versiones/Control de versiones (Git).md"
+                "file": "TCP-IP y UDP.md"
               }
             }
           },
@@ -166,10 +180,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "43d4708b0b8c494a",
+  "active": "3dd8a3545974c434",
   "lastOpenFiles": [
-    "1- GIT Control de Versiones/Control de Versiones Avanzado (Git).md",
     "1- GIT Control de Versiones/Control de versiones (Git).md",
+    "TCP-IP y UDP.md",
+    "2- La Web",
+    "1- GIT Control de Versiones/Control de Versiones Avanzado (Git).md",
     "1- GIT Control de Versiones/Pasos de GitFlow.png",
     "1- GIT Control de Versiones/Estartegia-gitflow.png",
     "1- GIT Control de Versiones/images/strftime.png",
