@@ -6,7 +6,10 @@ La arquitectura en capas es un modelo de diseño de software, cuya base es la se
 
 ## Componentes:
 
-- **==Controller==**: Maneja las solicitudes del usuario y coordina la lógica de presentación. Se comunica con la capa de dominio para obtener los datos y realizar operaciones.
-- **==Domain==**: Reside la lógica de la aplicación. Contiene las reglas y operaciones que definen como funciona el sistema. Las entidades y servicios en esta capa representan los conceptos centrales de la aplicación.
-- **==Repository==**: Se encarga de interactuar con el almacén de datos, una base de datos por ejemplo. Proporciona métodos para acceder y manipular los datos de manera abstracta, ocultando los detalles de implementación específicos.
+- **PRESENTATION**: Maneja las solicitudes del usuario y coordina la lógica de presentación. Se comunica con la capa de dominio para obtener los datos y realizar operaciones.
+
+- **DOMAIN**: Reside la lógica de la aplicación. Contiene las reglas y operaciones que definen como funciona el sistema. Las entidades y servicios en esta capa representan los conceptos centrales de la aplicación.
+
+- **REPOSITORY**: Se encarga de interactuar con el almacén de datos, una base de datos por ejemplo. Proporciona métodos para acceder y manipular los datos de manera abstracta, ocultando los detalles de implementación específicos.
+
 

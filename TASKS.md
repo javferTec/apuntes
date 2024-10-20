@@ -4,15 +4,15 @@
 - [X] Entender arquitectura por capas. De manera independiente y genérica :white_check_mark:
 - [ ] Desglosar CONTROLLER :dart:
 - [ ] Comprender anotaciones y el por qué de cada elemento. :dart:
-- [ ] Capa PRESENTACIÓN:
-    - [ ] Endpoints
-    - [ ] Modelos
-    - [ ] Mapeadores (MapStruct)
-    - [ ] Respuesta (ResponseEntity)
-    - [ ] Excepciones
-    - [ ] Idioma (LanguageUtils - Interceptores - LocaleConfig)
-    - [ ] Paginación
-    - [ ] Roles
+- [ ] Capa PRESENTACIÓN: :dart:
+    - [ ] Endpoints :dart:
+    - [ ] Modelos :dart:
+    - [ ] Mapeadores (MapStruct) :dart:
+    - [ ] Respuesta (ResponseEntity) :dart:
+    - [ ] Excepciones :dart:
+    - [ ] Idioma (LanguageUtils - Interceptores - LocaleConfig) :dart:
+    - [ ] Paginación :dart:
+    - [ ] Roles :dart:
 
 <br>
 

@@ -4,27 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b4080324f9255a88",
+        "id": "da77f21e65ffed25",
         "type": "tabs",
         "children": [
           {
-            "id": "1e695c763051b4fe",
+            "id": "7761c574eca8cfc9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Presentacion-Dominio-Persistencia.md"
-              }
-            }
-          },
-          {
-            "id": "25ac0cdf2903cfc5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Presentacion-Dominio-Persistencia.md"
-              }
+                "file": "Capa de Presentacion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Capa de Presentacion"
             }
           }
         ]
@@ -47,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -62,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -70,15 +68,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
-    "collapsed": true
+    "width": 334.5
   },
   "right": {
     "id": "c14dcdb64e73b0be",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Presentacion-Dominio-Persistencia.md",
+                "file": "Capa de Presentacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Capa de Presentacion"
             }
           },
           {
@@ -111,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Presentacion-Dominio-Persistencia.md",
+                "file": "Capa de Presentacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Capa de Presentacion"
             }
           },
           {
@@ -125,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -134,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Presentacion-Dominio-Persistencia.md"
-              }
+                "file": "Capa de Presentacion.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Capa de Presentacion"
             }
           },
           {
@@ -143,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -151,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -175,13 +186,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e695c763051b4fe",
+  "active": "7761c574eca8cfc9",
   "lastOpenFiles": [
+    "Arquitectura por capas.md",
+    "Capa de Presentacion.md",
+    "Excalidraw/Presentacion-Dominio-Persistencia.md",
     "Presentacion-Dominio-Persistencia.canvas",
     "API-Rest.md",
-    "Excalidraw/Presentacion-Dominio-Persistencia.md",
-    "Controller.md",
-    "Arquitectura por capas.md",
     "Excalidraw",
     "Excalidraw/Capas de la arquitectura.md",
     "Excalidraw/Drawing 2024-10-09 18.46.18.excalidraw.md"
