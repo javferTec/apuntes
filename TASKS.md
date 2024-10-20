@@ -4,6 +4,15 @@
 - [X] Entender arquitectura por capas. De manera independiente y genérica :white_check_mark:
 - [ ] Desglosar CONTROLLER :dart:
 - [ ] Comprender anotaciones y el por qué de cada elemento. :dart:
+- [ ] Capa PRESENTACIÓN:
+    - [ ] Endpoints
+    - [ ] Modelos
+    - [ ] Mapeadores (MapStruct)
+    - [ ] Respuesta (ResponseEntity)
+    - [ ] Excepciones
+    - [ ] Idioma (LanguageUtils - Interceptores - LocaleConfig)
+    - [ ] Paginación
+    - [ ] Roles
 
 <br>
 
@@ -32,3 +41,4 @@
 
 ### Despliegue De Apliaciones Web __(DAW)__
 - [X] Hoja de resumen esquematizada de GIT (control de versiones + avanzado) :white_check_mark:
+- [ ] Introducción. La web
