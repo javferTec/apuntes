@@ -22,6 +22,7 @@
 
     - [Tema 5 JS Eventos](./2-Desarrollo%20Web%20En%20Entorno%20Cliente/.temario/1a%20Evaluacion/Tema%205%20JS%20Eventos.pdf)
     - [Tema 6 JS DOM](./2-Desarrollo%20Web%20En%20Entorno%20Cliente/.temario/1a%20Evaluacion/Tema%206%20JS%20El%20DOM.pdf)
+    - [Tema 7 JS Formularios](./2-Desarrollo%20Web%20En%20Entorno%20Cliente/.temario/1a%20Evaluacion/Tema%207%20JS%20Formularios.pdf)
 
 <br>
 

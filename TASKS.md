@@ -24,6 +24,7 @@
 - [ ] Funciones, Objetos e Iterables JS 
 - [ ] Eventos JS 
 - [ ] DOM 
+- [ ] Formularios
     
 
 <br>
