@@ -4,7 +4,6 @@
 - [Control de Versiones Avanzado (Git)](./0-%20GIT%20Control%20de%20Versiones/Control%20de%20Versiones%20Avanzado%20(Git).md)
 - [Control de versiones (Git)](./0-%20GIT%20Control%20de%20Versiones/Control%20de%20versiones%20(Git).md)
 - [Estartegia-gitflow.png](./0-%20GIT%20Control%20de%20Versiones/Estartegia-gitflow.png)
-- [Estrategia de trabajo Git](./0-%20GIT%20Control%20de%20Versiones/Excalidraw/Estrategia%20de%20trabajo%20Git.md)
 - [Pasos de GitFlow.png](./0-%20GIT%20Control%20de%20Versiones/Pasos%20de%20GitFlow.png)
 
 

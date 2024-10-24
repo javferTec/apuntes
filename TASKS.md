@@ -16,7 +16,8 @@
 
 <br>
 
-### Desarrollo Web En Entorno Cliente __(DWC)__ __Examen 13 de Noviembre__
+### Desarrollo Web En Entorno Cliente __(DWC)__
+/__Examen 13 de Noviembre__/
 - [ ] Definición + cómo usar JS 
 - [ ] Programación básica JS 
 - [ ] Clases y sus métodos JS 
@@ -43,5 +44,5 @@
 ### Despliegue De Apliaciones Web __(DAW)__
 - [X] Hoja de resumen esquematizada de GIT (control de versiones + avanzado) :white_check_mark:
 - [X] Introducción. La web :white_check_mark:
-- [ ] Administración de Servidores Web :white_check_mark:
+- [X] Administración de Servidores Web :white_check_mark:
 - [ ] El protocolo HTTP

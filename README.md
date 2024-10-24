@@ -4,13 +4,15 @@
 
 ### Desarrollo Web En Entorno Servidor __(DWS)__
 *Temario* --> [Cesguiro](https://cesguiro.es/doku.php/clase/daw/dws/start)
-**APUNTES** --> [ÍNDICE](./1-Desarrollo%20Web%20En%20Entorno%20Servidor/indice.md)
+<br><br>
+**APUNTES** --> [Índice](./1-Desarrollo%20Web%20En%20Entorno%20Servidor/indice.md) 🔖
 
 <br>
 
 ### Desarrollo Web En Entorno Cliente __(DWC)__
 *Temario* --> [Aules](https://aules.edu.gva.es/fp/course/view.php?id=137179)
-**APUNTES** --> [ÍNDICE](./2-Desarrollo%20Web%20En%20Entorno%20Cliente/indice.md)
+<br><br>
+**APUNTES** --> [Índice](./2-Desarrollo%20Web%20En%20Entorno%20Cliente/indice.md) 🔖
 
 -  1a Evaluación
 
@@ -30,14 +32,16 @@
 
 ### Diseño De Interfaces Web __(DIW)__
 *Temario* --> [Logongas DIW](https://logongas.es/doku.php?id=clase:daw:diw:start)
-**APUNTES** --> [ÍNDICE](./3-%20Diseño%20De%20Interfaces%20Web/indice.md)
+<br><br>
+**APUNTES** --> [Índice](./3-%20Diseño%20De%20Interfaces%20Web/indice.md) 🔖
 
 
 <br>
 
 ### Despliegue De Apliaciones Web __(DAW)__
 *Temario* --> [Logongas DAW](https://logongas.es/doku.php?id=clase:daw:daw:start)
-**APUNTES** --> [ÍNDICE](./4-%20Despliegue%20De%20Aplicaciones%20Web/indice.md)
+<br><br>
+**APUNTES** --> [Índice](./4-%20Despliegue%20De%20Aplicaciones%20Web/indice.md) 🔖
 
 
 <br>
@@ -49,7 +53,7 @@
 > Herramienta utilizada para tomar apuntes __Obsidian__. Es una aplicación de toma de notas que se basa en el concepto de "segundo cerebro". Permite a los usuarios crear y organizar notas interconectadas de manera intuitiva. Además, ofrece diversas herramientas para personalizar la apariencia y la funcionalidad, como plantillas y plugins.
 
 <p align="center">
-    <img src="./.utilities/images/obsidian.png" alt="Obsidian Logo" width="400">
+    <img src="./utilities/images/obsidian.png" alt="Obsidian Logo" width="400">
 </p>
 
 
