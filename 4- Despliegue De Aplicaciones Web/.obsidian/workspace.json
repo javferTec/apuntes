@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2- Administración de Servidores Web/Administracion de Servidores Web.md",
+                "file": "indice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Administracion de Servidores Web"
+              "title": "indice"
             }
           }
         ]
@@ -188,8 +188,8 @@
   },
   "active": "b034a29c958b1541",
   "lastOpenFiles": [
-    "2- Administración de Servidores Web/servidores web externos.md",
     "2- Administración de Servidores Web/Administracion de Servidores Web.md",
+    "2- Administración de Servidores Web/servidores web externos.md",
     "2- Administración de Servidores Web/servidores web integrados.md",
     "1- Introduccion - La Web/Introducción - La Web.md",
     "1- Introduccion - La Web/TCP-IP y UDP.md",

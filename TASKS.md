@@ -16,7 +16,7 @@
 
 <br>
 
-### Desarrollo Web En Entorno Cliente __(DWC)__
+### Desarrollo Web En Entorno Cliente __(DWC)__ __Examen 13 de Noviembre__
 - [ ] Definición + cómo usar JS 
 - [ ] Programación básica JS 
 - [ ] Clases y sus métodos JS 
