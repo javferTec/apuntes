@@ -1,7 +1,7 @@
 # TAREAS POR ASIGNATURA
 
 ### Desarrollo Web En Entorno Servidor __(DWS)__
-/__Examen 26 de Noviembre__/
+/__Examen X de Diciembre__/
 - [X] Entender arquitectura por capas. De manera independiente y genérica :white_check_mark:
 - [X] Desglosar CONTROLLER :white_check_mark:
 - [X] Comprender anotaciones y el por qué de cada elemento. :white_check_mark:
@@ -24,23 +24,15 @@
 <br>
 
 ### Desarrollo Web En Entorno Cliente __(DWC)__
-/__Examen 13 de Noviembre__/
-- [ ] Definición + cómo usar JS  :white_check_mark:
-- [ ] Programación básica JS :white_check_mark:
-- [ ] Clases y sus métodos JS :white_check_mark:
-- [ ] Almacenamiento local (cookies) JS :white_check_mark:
-- [ ] Funciones, Objetos e Iterables JS :white_check_mark:
-- [ ] Eventos JS :white_check_mark:
-- [ ] DOM :white_check_mark:
-- [ ] Formularios :white_check_mark:
-- [ ] API REST
-- [ ] Comunicación asíncrona
+/__Examen X de Diciembre__/
+- [X] APUNTES Completado :white_check_mark:
+- [X] Prácticar :dart:
     
 
 <br>
 
 ### Diseño De Interfaces Web __(DIW)__
-/__Examen 18 de Noviembre__/
+/__Examen X de Diciembre__/
 - [ ] Resumir 1- El diseño web 
 - [ ] Resumir 2- Introducción al CSS 
 - [ ] Resumir 3- CSS 
@@ -52,8 +44,6 @@
 <br>
 
 ### Despliegue De Apliaciones Web __(DAW)__
-/__Examen 22 de Noviembre__/
-- [X] Hoja de resumen esquematizada de GIT (control de versiones + avanzado) :white_check_mark:
-- [X] Introducción. La web :white_check_mark:
-- [X] Administración de Servidores Web :white_check_mark:
-- [X] El protocolo HTTP :white_check_mark:
+/__Examen X de Diciembre__/
+- [X] APUNTES Completado :white_check_mark:
+- [X] Prácticar :dart:

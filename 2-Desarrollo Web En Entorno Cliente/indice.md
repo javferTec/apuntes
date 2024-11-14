@@ -7,5 +7,20 @@
 - [Sintaxis del lenguaje](./1-%20Sintaxis/Sintaxis%20del%20lenguaje.md)
 
 ## 2- Objetos Predefinidos
-- [Objetos predifinidos](./2-%20Objetos%20Predefinidos/Objetos%20predifinidos.md) 
+- [Objetos predefinidos](./2-%20Objetos%20Predefinidos/Objetos%20predifinidos.md) 
+
+## 3- Eventos
+- [Eventos](./3-%20Eventos/Eventos.md)
+
+## 4- DOM
+- [DOM](./4-%20DOM/DOM.md)
+
+## 5- Formularios
+- [Formularios](./5-%20Formularios/Formularios.md)
+
+## 6- API-REST
+- [API REST](./6-%20API-REST/API%20REST.md)
+
+## 7- Comunicación Asíncrona
+- [Comunicación asíncronatos](./7-%20Comunicacion%20Asincrona/Comunicación%20Asincrona.md)
 
