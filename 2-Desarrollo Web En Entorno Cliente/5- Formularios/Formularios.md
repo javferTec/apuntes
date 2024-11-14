@@ -1,3 +1,5 @@
+# FORMULARIOS
+
 Los formularios HTML son elementos fundamentales en la creación de páginas web interactivas. Permiten a los usuarios introducir datos, realizar selecciones y enviar información al servidor para su procesamiento. Sin embargo, los formularios básicos HTML pueden resultar limitados en cuanto a la funcionalidad y la experiencia del usuario. Es aquí donde JavaScript entra en juego, proporcionando herramientas para mejorar la interacción con los formularios y añadir características avanzadas.
 
 Algunos usos de los formularios son:

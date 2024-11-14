@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3- El protocolo HTTP/El protocolo HTTP.md",
+                "file": "0- GIT Control de Versiones/Control de versiones (Git).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "El protocolo HTTP"
+              "title": "Control de versiones (Git)"
             }
           }
         ]
@@ -188,18 +188,18 @@
   },
   "active": "fa4048d20ed5c99c",
   "lastOpenFiles": [
+    "0- GIT Control de Versiones/Control de Versiones Avanzado (Git).md",
+    "0- GIT Control de Versiones/Control de versiones (Git).md",
+    "3- El protocolo HTTP/El protocolo HTTP.md",
     "indice.md",
     "Sin título.canvas",
     "Sin título 1.canvas",
-    "3- El protocolo HTTP/El protocolo HTTP.md",
     "1- Introduccion - La Web/Introducción - La Web.md",
     "2- Administración de Servidores Web/Administracion de Servidores Web.md",
     "3- El protocolo HTTP",
-    "0- GIT Control de Versiones/Control de Versiones Avanzado (Git).md",
     "2- Administración de Servidores Web/servidores web externos.md",
     "2- Administración de Servidores Web/servidores web integrados.md",
     "1- Introduccion - La Web/TCP-IP y UDP.md",
-    "0- GIT Control de Versiones/Control de versiones (Git).md",
     "1- Introduccion - La Web",
     "2- Administración de Servidores Web",
     "0- GIT Control de Versiones/Pasos de GitFlow.png",

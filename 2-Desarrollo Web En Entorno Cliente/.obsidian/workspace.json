@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -239,13 +239,23 @@
               "icon": "lucide-list",
               "title": "Esquema"
             }
+          },
+          {
+            "id": "044a79fc43050ba1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,11 +270,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "25f9c5457f388b7b",
+  "active": "928902d9ba1641bd",
   "lastOpenFiles": [
+    "5- Formularios/Formularios.md",
+    "indice.md",
     "6- API-REST/API REST.md",
     "pdf/API REST.pdf",
-    "5- Formularios/Formularios.md",
     "pdf/Formularios.pdf",
     "4- DOM/DOM.md",
     "pdf/DOM.pdf",
@@ -278,7 +289,6 @@
     "pdf/Arquitecturas y tecnologías  - programación Web en cliente.pdf",
     "pdf",
     "Nueva carpeta",
-    "indice.md",
     "7- Comunicacion Asincrona/Comunicación Asincrona.md",
     "7- Comunicacion Asincrona/img/classic-web-app-communication-model.jpg",
     "7- Comunicacion Asincrona/img/classic-web-app-communication-model.jpg.crdownload",
