@@ -24,3 +24,6 @@
 ## 7- Comunicación Asíncrona
 - [Comunicación asíncronatos](./7-%20Comunicacion%20Asincrona/Comunicación%20Asincrona.md)
 
+## JS CHEAT SHEET
+- [Resumen](JS%20CheatSheet.md)
+
