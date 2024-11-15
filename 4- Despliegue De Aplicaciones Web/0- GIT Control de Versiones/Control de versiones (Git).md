@@ -16,49 +16,94 @@ El repositorio local se divide en:
 - **Repositorio local** (local repository): donde están todas las versiones de manera local.
 ## Estados de un fichero
 
-- **untracked**: Son ficheros que existe en el área de trabajo pero no existen para git. *No ha sido añadido al directorio*.
-- **staged**: Son ficheros modificados que se añadirán al siguiente commit. *Antes de añadirlos a staging area*.
-- **committed**: Son ficheros que se guardaron en el ultimo commit y que no han sido modificados desde dicho commit. *Fichero no modificado en el repositorio*.
-- **modified**: Son ficheros que se han modificado desde el último commit pero que aun no se han añadido para el próximo commit. *Ha sido editado desde el último commit y git conoce*.
-- **ignored**: Son ficheros que git ignora (a través del fichero .gitignore).
+- **untracked**: Son ficheros que existen en el área de trabajo pero no existen para Git. *No han sido añadidos al seguimiento del repositorio*.
+- **staged**: Son ficheros que se han añadido al *staging area* y están listos para ser incluidos en el siguiente commit. *Añadidos con `git add`*.
+- **committed**: Son ficheros que se guardaron en el último commit y que no han sido modificados desde entonces. *Están en el repositorio y no tienen cambios pendientes*.
+- **modified**: Son ficheros que se han modificado desde el último commit pero que aún no se han añadido al *staging area*. *Han sido editados en el área de trabajo, pero Git aún no los ha preparado para el commit*.
+- **ignored**: Son ficheros que Git ignora debido a las reglas definidas en el archivo `.gitignore`.
 
-Si queremos añadir un fichero al *staging area* lo hacemos con:
+### Comandos básicos para gestionar ficheros en Git
 
-``` bash
-git add fichero
-```
+1. **Añadir un fichero al staging area:**
 
-Si queremos confirmar los cambios del *stage*:
+   ```bash
+   git add fichero
+   ```
 
-``` bash
-git commit -m "mensaje"
-```
+2. **Confirmar los cambios del staging area al repositorio:**
 
-Si queremos quitar un fichero del stage:
+   ```bash
+   git commit -m "mensaje"
+   ```
 
-``` bash
-git restore --staged fichero
-git reset fichero # Menos usado
-```
+3. **Incluir en el commit los cambios en los ficheros *staged* y también en los *modified*:**
 
-Si queremos que un fichero vuelva al working directory:
+   ```bash
+   git commit -a -m "mensaje"
+   ```
 
-``` bash
-git rm --cached fichero
-```
+4. **Quitar un fichero del staging area (opuesto a `git add`):**
 
-Si queremos que un fichero vuelva al estado del último commit tras modificaciones:
+   ```bash
+   git restore --staged fichero
+   # Alternativa menos usada:
+   git reset fichero
+   ```
 
-```bash
-git restore fichero
-git checkout fichero # Menos usado
-```
+5. **Quitar un fichero del staging area pero mantenerlo en el área de trabajo:**
 
-Si queremos ver el estado de los fichero:
+   ```bash
+   git rm --cached fichero
+   ```
+
+6. **Borrar un fichero del staging area y del área de trabajo:**
+
+   ```bash
+   git rm fichero
+   ```
+
+7. **Restaurar un fichero modificado en el área de trabajo al estado del último commit:**
+
+   ```bash
+   git restore fichero
+   # Alternativa menos usada:
+   git checkout fichero
+   ```
+
+### Comprobación del estado de los ficheros:
+
+Para ver el estado de los ficheros en las diferentes áreas (untracked, staged, modified):
 
 ```bash
 git status
 ```
+
+El comando muestra:
+- Archivos en la staging area (cambios a ser confirmados).
+- Archivos modificados pero no añadidos al staging area.
+- Archivos sin seguimiento (untracked).
+
+Ejemplo de salida:
+
+```shell
+En la rama main
+Cambios a ser confirmados:
+  (usa "git restore --staged <archivo>..." para sacarlos del área de stage)
+	nuevos archivos: facturas.html
+
+Cambios no rastreados para el commit:
+  (usa "git add <archivo>..." para actualizar lo que será confirmado)
+  (usa "git restore <archivo>..." para descartar los cambios en el directorio de trabajo)
+	modificados:     main.js
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlos en el área de stage)
+	cliente.html
+```
+
+### Notas importantes:
+- Si modificas un fichero después de usar `git add` y no vuelves a añadirlo con `git add`, el commit solo incluirá los cambios que estaban en el staging area cuando ejecutaste `git add`.
+- Para evitar este problema, se puede usar el comando `git commit -a`, que automáticamente añade los ficheros modificados al staging area antes de confirmar los cambios.
 
 ## Sincronización de Git y Ramas
 

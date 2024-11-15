@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2- Administración de Servidores Web/Administracion de Servidores Web.md"
+                "file": "0- GIT Control de Versiones/Control de versiones (Git).md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de Administracion de Servidores Web"
+              "title": "Esquema de Control de versiones (Git)"
             }
           },
           {
@@ -170,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
