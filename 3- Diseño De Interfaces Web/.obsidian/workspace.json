@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c964c2ec3e670027",
+        "id": "34be155611583bee",
         "type": "tabs",
         "children": [
           {
-            "id": "aa1b5c73c2d2a702",
+            "id": "7086afdba0aa3ce8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "5- CSS Avanzado/CSS Avanzado.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSS Avanzado"
             }
           }
         ]
@@ -35,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -50,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -58,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -88,7 +100,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -99,7 +113,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -110,7 +126,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -118,15 +136,27 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          },
+          {
+            "id": "68091109c4b51a7d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,9 +168,24 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "aa1b5c73c2d2a702",
-  "lastOpenFiles": []
+  "active": "7086afdba0aa3ce8",
+  "lastOpenFiles": [
+    "5- CSS Avanzado/CSS Avanzado.md",
+    "index.md",
+    "4- SASS Avanzado/SASS Avanzado.md",
+    "3- CSS/CSS.md",
+    "2- Introduccion al CSS/Introduccion al CSS.md",
+    "2- Introduccion al CSS/Introduccion al CSS.MD",
+    "1- El diseño web/El diseño web.md",
+    "1- El diseño web/El diseño web",
+    "5- CSS Avanzado",
+    "4- SASS Avanzado",
+    "3- CSS",
+    "2- Introduccion al CSS",
+    "1- El diseño web"
+  ]
 }

@@ -12,4 +12,4 @@ La arquitectura en capas es un modelo de diseño de software, cuya base es la se
 
 - **REPOSITORY**: Se encarga de interactuar con el almacén de datos, una base de datos por ejemplo. Proporciona métodos para acceder y manipular los datos de manera abstracta, ocultando los detalles de implementación específicos.
 
-
+![img](./Presentacion-Dominio-Persistencia.png)

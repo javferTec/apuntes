@@ -1,1 +1,11 @@
-{}
+{
+  "interfaceFontFamily": "",
+  "cssTheme": "Obsidianite",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "UI-tweak"
+  ],
+  "textFontFamily": "Bodoni 72",
+  "accentColor": "",
+  "baseFontSizeAction": false
+}

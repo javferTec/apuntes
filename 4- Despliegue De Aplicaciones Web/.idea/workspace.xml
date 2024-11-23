@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3a4b313-1394-4464-bf2c-01f7719d4898" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.obsidian/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/appearance.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/appearance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "javferTec"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/javferTec/apuntes.git",
+    "accountId": "dd57487b-5940-4d90-9d14-5d7d82533520"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2pFXy30xPSgXnZGqSTZg5k2hmT2" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23339.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3a4b313-1394-4464-bf2c-01f7719d4898" name="Changes" comment="" />
+      <created>1732363052528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732363052528</updated>
+      <workItem from="1732363057660" duration="111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

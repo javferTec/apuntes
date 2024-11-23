@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "0- GIT Control de Versiones/Control de versiones (Git).md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Control de versiones (Git)"
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2- Administración de Servidores Web/Administracion de Servidores Web.md",
+                "file": "indice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Administracion de Servidores Web"
+              "title": "Enlaces entrantes de indice"
             }
           },
           {
@@ -165,12 +165,12 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,43 +182,45 @@
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "fa4048d20ed5c99c",
   "lastOpenFiles": [
-    "0- GIT Control de Versiones/Control de Versiones Avanzado (Git).md",
     "0- GIT Control de Versiones/Control de versiones (Git).md",
     "3- El protocolo HTTP/El protocolo HTTP.md",
+    "2- Administración de Servidores Web/servidores web integrados.md",
+    "2- Administración de Servidores Web/servidores web externos.md",
+    "2- Administración de Servidores Web/Administracion de Servidores Web.md",
+    "1- Introduccion - La Web/TCP-IP y UDP.md",
+    "0- GIT Control de Versiones/Control de Versiones Avanzado (Git).md",
+    "0- GIT Control de Versiones/Excalidraw/Estrategia de trabajo Git.md",
+    "pdf/lib/search-index.json",
+    "pdf/lib/metadata.json",
+    "pdf/lib/styles/snippets.css",
+    "pdf/lib/styles/obsidian.css",
+    "pdf/lib/styles/main-styles.css",
+    "pdf/lib/styles/global-variable-styles.css",
+    "pdf/lib/styles",
+    "pdf/lib/html/file-tree.html",
+    "pdf/lib/html",
+    "pdf/lib/media/favicon.png",
+    "pdf/lib/media/874d8b8e340f75575caa.svg",
+    "pdf/lib/media",
     "indice.md",
+    "pdf/0-git-control-de-versiones/pasos-de-gitflow.png",
+    "pdf/0-git-control-de-versiones/estartegia-gitflow.png",
+    "pdf/0-git-control-de-versiones/images/strftime.png",
+    "pdf/0-git-control-de-versiones/images/gitlog.png",
+    "pdf/0-git-control-de-versiones/images/git-log-format.png",
+    "0- GIT Control de Versiones/Control de versiones (Git).jpeg",
+    "0- GIT Control de Versiones/Control de versiones (Git).png",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "1- Introduccion - La Web/Introducción - La Web.md",
-    "2- Administración de Servidores Web/Administracion de Servidores Web.md",
-    "3- El protocolo HTTP",
-    "2- Administración de Servidores Web/servidores web externos.md",
-    "2- Administración de Servidores Web/servidores web integrados.md",
-    "1- Introduccion - La Web/TCP-IP y UDP.md",
-    "1- Introduccion - La Web",
-    "2- Administración de Servidores Web",
     "0- GIT Control de Versiones/Pasos de GitFlow.png",
-    "0- GIT Control de Versiones/Estartegia-gitflow.png",
-    "0- GIT Control de Versiones/images/strftime.png",
-    "0- GIT Control de Versiones/images/gitLog.png",
-    "0- GIT Control de Versiones/images/git-log-format.png",
-    "0- GIT Control de Versiones/images",
-    "0- GIT Control de Versiones/Excalidraw/Estrategia de trabajo Git.md",
-    "0- GIT Control de Versiones/Excalidraw",
-    "0- GIT Control de Versiones",
-    "Nueva carpeta",
-    "Pasos de GitFlow.png",
-    "Estartegia-gitflow.png",
     "Control de versiones (Git).md",
-    "Excalidraw/Estrategia de trabajo Git.md",
-    "images/gitLog.png",
-    "images/git-log-format.png",
-    "images/strftime.png",
-    "images",
-    "Excalidraw"
+    "Excalidraw/Estrategia de trabajo Git.md"
   ]
 }

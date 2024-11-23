@@ -1,1 +1,6 @@
-{}
+{
+  "cssTheme": "Obsidianite",
+  "enabledCssSnippets": [
+    "UI-tweak"
+  ]
+}

@@ -1,5 +1,8 @@
 [
   "table-editor-obsidian",
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "editing-toolbar",
+  "obsidian-image-toolkit",
+  "webpage-html-export"
 ]

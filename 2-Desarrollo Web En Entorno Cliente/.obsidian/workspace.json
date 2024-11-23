@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS CheatSheet.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JS CheatSheet"
+              "title": "index"
             }
           }
         ]
@@ -171,22 +171,24 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "3dba7fcf36885c41",
   "lastOpenFiles": [
-    "pdf/JS CheatSheet.pdf",
+    "index.md",
+    "JS CheatSheet.md",
+    "7- Comunicacion Asincrona/Comunicación Asincrona.md",
+    "6- API-REST/API REST.md",
     "5- Formularios/Formularios.md",
     "4- DOM/DOM.md",
     "3- Eventos/Eventos.md",
-    "2- Objetos Predefinidos/Objetos predifinidos.md",
     "1- Sintaxis/Sintaxis del lenguaje.md",
+    "pdf/JS CheatSheet.pdf",
+    "2- Objetos Predefinidos/Objetos predifinidos.md",
     "0- Introduccion/Arquitecturas y tecnologías  - programación Web en cliente.md",
-    "JS CheatSheet.md",
     "Sin nombre",
-    "indice.md",
-    "6- API-REST/API REST.md",
     "pdf/API REST.pdf",
     "pdf/Formularios.pdf",
     "pdf/DOM.pdf",
@@ -195,8 +197,6 @@
     "pdf/Sintaxis del lenguaje.pdf",
     "pdf/Arquitecturas y tecnologías  - programación Web en cliente.pdf",
     "pdf",
-    "Nueva carpeta",
-    "7- Comunicacion Asincrona/Comunicación Asincrona.md",
     "7- Comunicacion Asincrona/img/classic-web-app-communication-model.jpg",
     "Pasted image 20241104162737.png"
   ]
