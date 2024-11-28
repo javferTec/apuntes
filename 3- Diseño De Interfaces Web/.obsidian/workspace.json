@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "34be155611583bee",
+        "id": "9ab226c65f40abbc",
         "type": "tabs",
         "children": [
           {
-            "id": "7086afdba0aa3ce8",
+            "id": "a4bb55e9442fc230",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5- CSS Avanzado/CSS Avanzado.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSS Avanzado"
+              "title": "index"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 230.5
   },
   "right": {
     "id": "834065e271a1f98c",
@@ -136,9 +136,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "3- CSS/CSS.md"
+              },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de CSS"
             }
           },
           {
@@ -150,13 +152,24 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "62237a33139757b4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,20 +185,39 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7086afdba0aa3ce8",
+  "active": "a4bb55e9442fc230",
   "lastOpenFiles": [
-    "5- CSS Avanzado/CSS Avanzado.md",
     "index.md",
-    "4- SASS Avanzado/SASS Avanzado.md",
+    "5- Arquitectura/Arquitectura.md",
+    "index.md",
+    "Excalidraw/Arquitectura.md",
+    "6- Web Utilities/Webs Interesantes.md",
+    "4- SASS/SASS.md",
     "3- CSS/CSS.md",
-    "2- Introduccion al CSS/Introduccion al CSS.md",
-    "2- Introduccion al CSS/Introduccion al CSS.MD",
     "1- El diseño web/El diseño web.md",
-    "1- El diseño web/El diseño web",
-    "5- CSS Avanzado",
-    "4- SASS Avanzado",
-    "3- CSS",
-    "2- Introduccion al CSS",
-    "1- El diseño web"
+    "Excalidraw/Drawing 2024-11-28 13.55.11.excalidraw.md",
+    "Pasted image 20241128171143.png",
+    "7-CheatSheets/Sass(SCSS) and Compass Cheat Sheet.pdf",
+    "7-CheatSheets/Sass(SCSS) and Compass Cheat Sheet.pdf.crdownload",
+    "7-CheatSheets/html5-cheatsheet-lite.pdf",
+    "7-CheatSheets/css3-cheatsheet-lite.pdf",
+    "7-CheatSheets/html5-cheatsheet-lite.pdf.crdownload",
+    "7-CheatSheets/css3-cheatsheet-lite.pdf.crdownload",
+    "7-CheatSheets",
+    "![[Pasted.md",
+    "zImages/arquitecturaEsquema.png",
+    "Excalidraw",
+    "zImages/sombras.png",
+    "2- Introduccion al CSS/Introduccion al CSS.md",
+    "6- Web Utilities",
+    "zImages/botones/alternativaPrimaria.png",
+    "zImages/botones",
+    "zImages/botones/normalTerciaria.png",
+    "zImages/botones/normalSecundaria.png",
+    "zImages/botones/normalPrimaria.png",
+    "zImages/botones/peligrosaTerciaria.png",
+    "zImages/botones/peligrosaSecundaria.png",
+    "zImages/botones/peligrosaPrimaria.png",
+    "2- Introduccion al CSS/Introduccion al CSS.MD"
   ]
 }

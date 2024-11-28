@@ -1,10 +1,13 @@
-# ÍNDICE
+# Índice
 
-- [El diseño web](./1-%20El%20diseño%20web/El%20diseño%20web.md)
-- [Introducción al CSS](./2-%20Introduccion%20al%20CSS/Introduccion%20al%20CSS.md)
-- [CSS](./3-%20CSS/CSS.md)
-- [SASS Avanzado](./4-%20SASS%20Avanzado/SASS%20Avanzado.md)
-- [CSS Avanzado](./5-%20CSS%20Avanzado/CSS%20Avanzado.md)
-
-
+1. [El diseño web](El%20diseño%20web.md)
+2. [Introducción al CSS](Introduccion%20al%20CSS.md)
+3. [CSS](CSS.md)
+4. [SASS](SASS.md)
+5. [Arquitectura](Arquitectura.md)
+6. [Web Utilities](Webs%20Interesantes.md)
+7. CheatSheets
+    - [css3-cheatsheet-lite.pdf](css3-cheatsheet-lite.pdf)
+    - [html5-cheatsheet-lite.pdf](html5-cheatsheet-lite.pdf)
+    - [Sass(SCSS) and Compass Cheat Sheet.pdf](Sass(SCSS)%20and%20Compass%20Cheat%20Sheet.pdf)
 
